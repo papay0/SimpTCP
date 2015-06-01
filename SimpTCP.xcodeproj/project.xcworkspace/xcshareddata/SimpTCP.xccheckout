@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>651A546A-8E99-4444-8D0F-798C84A85855</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SimpTCP</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0688A1EEE1773256D43183D8748CE3741B5B8382</key>
+		<string>https://github.com/papay0/SimpTCP.git</string>
+		<key>B95DDDA3ED7ACF046414ADD5D90D89C8CC5C59A8</key>
+		<string>https://github.com/papay0/SimpTCP-final.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SimpTCP.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0688A1EEE1773256D43183D8748CE3741B5B8382</key>
+		<string>../../../SimpTCP</string>
+		<key>B95DDDA3ED7ACF046414ADD5D90D89C8CC5C59A8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/papay0/SimpTCP-final.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B95DDDA3ED7ACF046414ADD5D90D89C8CC5C59A8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0688A1EEE1773256D43183D8748CE3741B5B8382</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SimpTCP</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B95DDDA3ED7ACF046414ADD5D90D89C8CC5C59A8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SimpTCP-final</string>
+		</dict>
+	</array>
+</dict>
+</plist>
